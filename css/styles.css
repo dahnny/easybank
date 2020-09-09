@@ -231,7 +231,7 @@ body {
 
   .title-header {
     font-size: 30px;
-    
+    padding-top: 15px;
   }
   
   .navbar-nav > li > a:hover {
