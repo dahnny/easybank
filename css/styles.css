@@ -131,6 +131,7 @@ body {
 .properties-row-paragraph {
   font-size: 14px;
   font-weight: 200;
+  margin-bottom: 20px;
 }
 .articles-section {
   background-color: hsl(0, 0%, 98%);
@@ -142,6 +143,7 @@ body {
   padding: 0;
   border-radius: 5px;
   margin: 15px;
+  
 }
 
 .article-inner-box {
@@ -177,6 +179,7 @@ body {
 .article-second-paragraph {
   font-size: 13px;
   font-weight: 200;
+  padding-bottom: 40px;
 }
 
 #footer {
@@ -225,6 +228,12 @@ body {
   #title {
     text-align: center;
   }
+
+  .title-header {
+    font-size: 30px;
+    
+  }
+  
   .navbar-nav > li > a:hover {
     border-bottom:unset;
   }
@@ -235,6 +244,16 @@ body {
 
   .phone-image{
       position: static;
+  }
+
+  .article-box{
+      margin: unset;
+      margin-bottom: 15px;
+      padding-bottom: 50px;
+  }
+
+  .container{
+      padding: 0;
   }
 
   #footer{
